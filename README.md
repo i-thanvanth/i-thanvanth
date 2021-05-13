@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 😄 People call me T
-### 🌱 just a random guy who loves coding,math and music...
+### 🌱 just a random guy who loves coding,science and music...
 ### 🔭 I’m currently working on myself improving my lifestyle and obviously coding and a lot other stuff
 ### ⚡ I have a blog, here's the link: https://confessionsoft.blogspot.com
 
