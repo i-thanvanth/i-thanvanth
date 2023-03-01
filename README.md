@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### 😄 People call me T
 ### 🌱 just a random guy who loves coding,science and music...
-### 🔭 I’m currently working on myself improving my lifestyle and obviously coding and a lot other stuff
-### ⚡ I have a blog, here's the link: https://confessionsoft.blogspot.com
 
 <!--
 **i-thanvanth/i-thanvanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
