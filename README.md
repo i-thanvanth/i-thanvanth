@@ -1,6 +1,4 @@
-### Hi there 👋
-### 😄 People call me T
-### 🌱 just a random guy who loves coding,science and music...
+### hello, i'm tea :) i do physics and other things
 
 <!--
 **i-thanvanth/i-thanvanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
